@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bb40306deb9f018b749892bf",
+  "owner": "versnjptrd",
+  "repo": "page-44771871987559b295f8ad4c",
+  "title": "大风车(Dafengche)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "44771871987559b295f8ad4c",
+      "a": "大风车(Dafengche)",
+      "b": "2027官方最新地址导航",
+      "entity": "大风车(Dafengche)",
+      "brand": "大风车(Dafengche)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "935f111c85319ada7638083dc8dfd91f59e3da9cc22c9806944a2a391afa20be",
+      "content": {
+        "primary_entity": "大风车(Dafengche)",
+        "keyword1": "大风车(Dafengche)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows 用 Clash Verge，macOS 用 ClashX Pro，iOS 用 Shadowrocket，Android 用 v2rayNG。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置大风车",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户，提供基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并含 IPLC 专线游戏加速，团队版每月 1000GB 流量支持 20 台设备。按年付可享更优价格，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。用户可根据设备数量、流量需求与使用场景选择对应档位，在客户端中导入订阅后开始使用。",
+          "AI_FEATURES_INTRO": "三档套餐对应不同设备数量与流量需求，按年付更划算。",
+          "AI_FEATURES_TITLE": "套餐与订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合日常轻度使用；按年付仅需 ¥150/年。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速与全节点流媒体解锁，按年付仅需 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 专属节点与企业定制路由，按年付仅需 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "基础版适合入门",
+          "AI_FEATURE_TITLE_2": "旗舰版均衡增强",
+          "AI_FEATURE_TITLE_3": "团队版多人共享",
+          "AI_GUIDE_INTRO": "按三个步骤完成套餐选择、适配确认和订阅导入。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "大风车提供多档海外网络加速套餐，覆盖基础到团队使用。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并含 IPLC 专线游戏加速，团队版每月 1000GB 流量支持 20 台设备。按年付可享更优价格，在常用客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖日常与团队需求",
+          "AI_HIGHLIGHT_1": "三档套餐按流量和设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付价格更优，适合长期使用",
+          "AI_PLANS_INTRO": "对比三档套餐的月流量、设备数量与价格，选择匹配自身需求的方案。",
+          "AI_PLANS_TITLE": "选择合适套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端和操作系统的适配要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "大风车套餐对比",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与套餐选择。",
+          "AI_FAQ_QUESTION_1": "大风车支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "大风车提供适用于常见桌面和移动系统的客户端选择，具体兼容列表建议参考对应客户端文档。不同设备可导入同一订阅信息，设备数量受套餐档位限制。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版有什么主要区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备、普通线路节点池；旗舰版每月300GB流量、支持5台设备，并增加IPLC专线游戏加速优化和7x24优先工单支持。可按使用强度选择。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景使用？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备同时在线，配备VIP专属高带宽节点和企业定制路由选项，适合多人协作或设备数量较多的使用场景。",
+          "AI_FAQ_QUESTION_4": "按年付和按月付价格相差多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付相当于节省两个月费用，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅配置？",
+          "AI_FAQ_ANSWER_5": "选择与设备匹配的客户端后，按客户端文档中的订阅导入步骤操作即可。遇到配置问题时，可通过工单渠道获得支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--tanz-t29fn45k364cyvo.com",
+    "host": "xn--tanz-t29fn45k364cyvo.com"
+  },
+  "file_hashes": {
+    "index.html": "c9496ba9256d23e96145d66b05da423c712ed345b14d41a1c860aa9551a641e6",
+    "sitemap.xml": "00ddbd0c77e5df425bc548bf62d6ec84a7e636fcae250afa8ce05a415816e80d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "927f876d0196504fd2df399155fcd91fe4aba03c530e35f14d8a9448bdcc63f8",
+    "robots.txt": "9d44d493359e45b4f9d7376d3ec8547f89880fa9d97d47a2a819e17aceecf843",
+    "bdf7108e8d7216ed44677733aabe70c6.txt": "ecf9ac2e30c24a49afbcaf66ca90da9a41161982d025de6fe40b5ae781788da9"
+  },
+  "revision": "b8a7154d8a560ff39829eb31ebf8b9496fcc5c0a026951f0e28608269bd45943"
+}
